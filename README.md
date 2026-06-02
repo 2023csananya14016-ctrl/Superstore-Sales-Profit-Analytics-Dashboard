@@ -1,4 +1,28 @@
-Superstore Sales & Profit Analytics Dashboard
+Data Preparation & Cleaning
+
+Before building the dashboard, the dataset was cleaned and transformed using Google Colab and Python.
+
+Data Cleaning Activities
+
+- Removed duplicate records
+- Handled missing and null values
+- Standardized column names and formats
+- Corrected data inconsistencies
+- Created derived columns for analysis
+- Validated data quality before importing into Power BI
+
+Tools Used for Data Preparation
+
+- Google Colab
+- Python
+- Pandas
+- NumPy
+- Seaborn 
+- Matplotlib
+
+Workflow
+
+Raw Dataset → Google Colab Data Cleaning → Engineered Dataset → Power BI DashboardSuperstore Sales & Profit Analytics Dashboard
 
 Interactive Power BI dashboard analyzing sales, profitability, customer behaviour, and business performance using the Superstore dataset.
 
@@ -34,6 +58,13 @@ Tools Used
 - Data Modeling
 - Data Visualization
 - Business Intelligence
+- Google Colab
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Data Cleaning and Transformation
 
 Key Insights
 
